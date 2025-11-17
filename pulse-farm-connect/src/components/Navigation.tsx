@@ -11,6 +11,7 @@ const Navigation = () => {
     { path: "/", icon: LayoutDashboard, label: "Dashboard" },
     { path: "/schemes", icon: FileText, label: "Schemes" },
     { path: "/crops", icon: Leaf, label: "Crop Advisor" },
+    { path: "/plant", icon: Leaf, label: "Plant Health" },
     { path: "/motor", icon: Power, label: "Motor Control" },
     { path: "/services", icon: Plane, label: "Services" },
     { path: "/factories", icon: Factory, label: "Factories" },
